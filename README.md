@@ -1,4 +1,4 @@
-# Predicting Marital Status with Monthly Expense Data
+# Predicting Marital Status using Monthly Expense Data
 
 This notebook was created for use in [Türkiye İş Bankası Machine Learning Challenge #3](https://www.kaggle.com/c/turkiye-is-bankas-machine-learning-challenge-3/leaderboard). The competition awarded the solution with 5th place.
   
